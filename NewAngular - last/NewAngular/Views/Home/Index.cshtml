@@ -1,0 +1,80 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<!DOCTYPE html>
+<head>
+    <link rel="stylesheet" href="http://ui-grid.info/release/ui-grid.css" type="text/css">
+
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+    
+    <script src="http://ui-grid.info/release/ui-grid.js"></script>
+
+
+    <script src="~/NgScript/Controllers/NgController.js"></script>
+
+    <script src="~/NgScript/Services/crudService.js"></script>
+
+
+
+    <title></title>
+</head>
+<div ng-app="myApp">
+
+<div ng-controller="validateCtrl">
+
+    <h2>Unit Measurement</h2>
+    <div>
+        <form>
+            <br />
+            <label for="Csgroup">Group </label><br />
+            <select id="Csgroup" ng-model="Csgroup">
+                <option>Amber Denim</option>
+                <option>Amber Cotton</option>
+                <option>Amber IT</option>
+                <option>Amber Mills</option>
+            </select>
+            <br />
+            <!-- <input type="text" id="Csgroup" ng-model="Item.Csgroup" /> <br />-->
+
+            <label for="Code">Code</label><br />
+            <input type="text" id="Code" ng-model="Code" /> <br />
+
+            <label for="Name">Name</label><br />
+            <input type="text" id="Name" ng-model="Name" /> <br />
+
+            <label for="Qty">Qty</label><br />
+            <input type="number" id="Qty" ng-model="Qty" /> <br />
+
+            <label for="Price">Price</label><br />
+            <input type="number" id="Price" ng-model="Price" /> <br />
+
+
+            <br /> 
+
+
+            <input type="button" class="btn btn-success" value="Submit" ng-click="submitItemForm()" />
+            
+        </form>
+        @*<form ng-submit="ShowList()">
+            <br/>
+
+ 
+            <input type="submit" class="btn btn-danger" value="Show" />
+            <div ui-grid="gridOptions" ui-grid-pagination></div>
+        </form>*@
+
+        <div>
+            <br />
+            <input type="button" class="btn btn-danger" value="Show" ng-click="showList()"/>
+            <div ui-grid="gridOptions" ui-grid-pagination></div>
+
+        </div>
+        
+
+    </div>
+    
+
+</div>
+</div>
+

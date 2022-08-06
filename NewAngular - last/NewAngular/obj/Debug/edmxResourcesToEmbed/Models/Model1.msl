@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="AngularUnitModelStoreContainer" CdmEntityContainer="AngularUnitEntities">
+    <EntitySetMapping Name="Items">
+      <EntityTypeMapping TypeName="AngularUnitModel.Item">
+        <MappingFragment StoreEntitySet="Item">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Csgroup" ColumnName="Csgroup" />
+          <ScalarProperty Name="Code" ColumnName="Code" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Qty" ColumnName="Qty" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="InsertData" FunctionName="AngularUnitModel.Store.InsertData" />
+    <FunctionImportMapping FunctionImportName="ShowData" FunctionName="AngularUnitModel.Store.ShowData" />
+  </EntityContainerMapping>
+</Mapping>
