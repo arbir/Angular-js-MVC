@@ -1,0 +1,183 @@
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\NewAngular.dll.config
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\NewAngular.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\NewAngular.pdb
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\Antlr3.Runtime.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\EntityFramework.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\EntityFramework.SqlServer.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\Microsoft.Owin.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\Microsoft.Owin.Security.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\Newtonsoft.Json.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\Owin.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\System.Net.Http.Formatting.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\System.Web.Helpers.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\System.Web.Http.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\System.Web.Http.WebHost.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\System.Web.Mvc.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\System.Web.Optimization.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\System.Web.Razor.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\System.Web.WebPages.Deployment.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\System.Web.WebPages.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\System.Web.WebPages.Razor.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\WebGrease.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\System.Web.Helpers.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\System.Web.Mvc.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\System.Web.Optimization.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\System.Web.Razor.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\System.Web.WebPages.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\System.Web.WebPages.Deployment.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\System.Web.WebPages.Razor.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\Newtonsoft.Json.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\Antlr3.Runtime.pdb
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\System.Net.Http.Formatting.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\System.Web.Http.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\System.Web.Http.WebHost.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\EntityFramework.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\EntityFramework.SqlServer.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\Microsoft.Owin.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\Microsoft.Owin.Security.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\obj\Debug\NewAngular.csprojResolveAssemblyReference.cache
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\obj\Debug\NewAngular.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular\NewAngular\obj\Debug\NewAngular.pdb
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\NewAngular.dll.config
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\NewAngular.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\NewAngular.pdb
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\Antlr3.Runtime.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\EntityFramework.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\EntityFramework.SqlServer.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\Microsoft.Owin.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\Microsoft.Owin.Security.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\Newtonsoft.Json.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\Owin.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\System.Net.Http.Formatting.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\System.Web.Helpers.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\System.Web.Http.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\System.Web.Http.WebHost.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\System.Web.Mvc.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\System.Web.Optimization.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\System.Web.Razor.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\System.Web.WebPages.Deployment.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\System.Web.WebPages.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\System.Web.WebPages.Razor.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\WebGrease.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\System.Web.Helpers.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\System.Web.Mvc.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\System.Web.Optimization.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\System.Web.Razor.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\System.Web.WebPages.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\System.Web.WebPages.Deployment.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\System.Web.WebPages.Razor.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\Newtonsoft.Json.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\Antlr3.Runtime.pdb
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\System.Net.Http.Formatting.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\System.Web.Http.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\System.Web.Http.WebHost.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\EntityFramework.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\EntityFramework.SqlServer.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\Microsoft.Owin.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\Microsoft.Owin.Security.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\obj\Debug\NewAngular.csprojResolveAssemblyReference.cache
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\obj\Debug\NewAngular.dll
+C:\Users\creat\Downloads\AmberIT_JSE\project\NewAngular - Copy\NewAngular\obj\Debug\NewAngular.pdb
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\NewAngular.dll.config
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\NewAngular.dll
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\NewAngular.pdb
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\Antlr3.Runtime.dll
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\EntityFramework.dll
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\EntityFramework.SqlServer.dll
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\Microsoft.Owin.dll
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\Microsoft.Owin.Security.dll
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\Newtonsoft.Json.dll
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\Owin.dll
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\System.Net.Http.Formatting.dll
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\System.Web.Helpers.dll
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\System.Web.Http.dll
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\System.Web.Http.WebHost.dll
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\System.Web.Mvc.dll
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\System.Web.Optimization.dll
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\System.Web.Razor.dll
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\System.Web.WebPages.Deployment.dll
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\System.Web.WebPages.dll
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\System.Web.WebPages.Razor.dll
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\WebGrease.dll
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\System.Web.Helpers.xml
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\System.Web.Mvc.xml
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\System.Web.Optimization.xml
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\System.Web.Razor.xml
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\System.Web.WebPages.xml
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\System.Web.WebPages.Deployment.xml
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\System.Web.WebPages.Razor.xml
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\Newtonsoft.Json.xml
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\Antlr3.Runtime.pdb
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\System.Net.Http.Formatting.xml
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\System.Web.Http.xml
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\System.Web.Http.WebHost.xml
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\EntityFramework.xml
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\EntityFramework.SqlServer.xml
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\Microsoft.Owin.xml
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\Microsoft.Owin.Security.xml
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\obj\Debug\NewAngular.csprojResolveAssemblyReference.cache
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\obj\Debug\NewAngular.dll
+C:\Users\creat\Downloads\AmberIT_JSE\origin\NewAngular - last\NewAngular\obj\Debug\NewAngular.pdb
